@@ -2,7 +2,6 @@
   "name": "middle.messenger.praktikum.yandex",
   "version": "1.0.0",
   "description": "практическая работа на курсе",
-  "main": "server.js",
   "source": "src/index.pug",
   "engines": {
     "node": ">=18.0.0"
