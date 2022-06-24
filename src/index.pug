@@ -1,0 +1,12 @@
+doctype html
+html(lang="en")
+    head
+        link(rel='stylesheet',href='./ui/_main_style.sass')
+    body(onload='window.util()')
+        a(href='./ui/auth/auth.pug') Авторизация
+        a(href='./ui/register/register.pug') Регистрация
+        a(href='./ui/issues/5xx.pug') 5xx
+        a(href='./ui/issues/404.pug') 404
+        a(href='./ui/user_options/user_options.pug') options
+        a(href='./ui/main_window/main_window.pug') main_window
+        script(type="module", src="index.js")
