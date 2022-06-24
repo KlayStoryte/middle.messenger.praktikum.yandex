@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "практическая работа на курсе",
   "source": "src/index.pug",
-  "main": "index.html",
   "engines": {
     "node": ">=18.0.0"
   },
