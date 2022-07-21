@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08763006-21e2-4133-8e6a-936c33318527" name="Changes" comment="first try readme unchanged">
+      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.stylelintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/helloworld.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Auth/Auth.tpl.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Auth/Auth.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Register/Register.tpl.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Register/Register.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/error/err.tpl.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/error/error.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/userOptions/UserOptions.tpl.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/userOptions/UserOptions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utility/Block.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utility/EventBus.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utility/render.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/_main_style.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/_main_style.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/auth/auth.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/auth/auth.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/user_options/user_options.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/user_options/user_options.pug" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="sprint_2" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2Ax6uU2kiKKxFRkXCYDfZHcdeHh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/replika/Documents/WebstormProjects/middle.messenger.praktikum.yandex",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors",
+    "ts.external.directory.path": "/Users/replika/WebstormProjects/middle.messenger.praktikum.yandex/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pages/Auth" />
+      <recent name="$PROJECT_DIR$/src/pages" />
+      <recent name="$PROJECT_DIR$/src/ui/user_options" />
+      <recent name="$PROJECT_DIR$/src/ui/main_window" />
+      <recent name="$PROJECT_DIR$/src/ui/register" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/exercise/block/for ex" />
+      <recent name="$PROJECT_DIR$/exersise" />
+      <recent name="$PROJECT_DIR$/src/ui/assets" />
+      <recent name="$PROJECT_DIR$/src/ui/main_window" />
+      <recent name="$PROJECT_DIR$/src/ui" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercise/script.js" working-dir="$PROJECT_DIR$/exercise">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.script.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08763006-21e2-4133-8e6a-936c33318527" name="Changes" comment="" />
+      <created>1655939112069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655939112069</updated>
+      <workItem from="1655939114036" duration="7280000" />
+      <workItem from="1655976393410" duration="14962000" />
+      <workItem from="1656070825521" duration="7406000" />
+      <workItem from="1656081093307" duration="593000" />
+      <workItem from="1656082598646" duration="2169000" />
+      <workItem from="1656086297368" duration="901000" />
+      <workItem from="1656202999120" duration="11917000" />
+      <workItem from="1656216713511" duration="36000" />
+      <workItem from="1656222327309" duration="2862000" />
+      <workItem from="1656332818921" duration="779000" />
+      <workItem from="1656334043542" duration="10095000" />
+      <workItem from="1656452474269" duration="1996000" />
+      <workItem from="1656500413729" duration="13110000" />
+      <workItem from="1657189419060" duration="413000" />
+      <workItem from="1657201156336" duration="1046000" />
+      <workItem from="1657204089905" duration="785000" />
+      <workItem from="1657382706869" duration="4617000" />
+      <workItem from="1657409389013" duration="567000" />
+      <workItem from="1657535753292" duration="445000" />
+      <workItem from="1657786446567" duration="37197000" />
+      <workItem from="1658088495002" duration="1329000" />
+      <workItem from="1658089834785" duration="3756000" />
+      <workItem from="1658095004850" duration="2024000" />
+      <workItem from="1658160529795" duration="3602000" />
+      <workItem from="1658188055081" duration="273000" />
+      <workItem from="1658267538871" duration="5000" />
+    </task>
+    <task id="LOCAL-00001" summary="first test">
+      <created>1655940761962</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655940761962</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first test">
+      <created>1655941263289</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655941263289</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first try readme unchanged">
+      <created>1656081378156</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656081378156</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first try readme unchanged">
+      <created>1656082701963</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656082701963</updated>
+    </task>
+    <task id="LOCAL-00005" summary="first try readme unchanged">
+      <created>1656083751959</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656083751959</updated>
+    </task>
+    <task id="LOCAL-00006" summary="first try readme unchanged">
+      <created>1656085194755</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656085194755</updated>
+    </task>
+    <task id="LOCAL-00007" summary="first try readme unchanged">
+      <created>1656086420559</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656086420559</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first test" />
+    <MESSAGE value="first readme change" />
+    <MESSAGE value="first try readme unchanged" />
+    <option name="LAST_COMMIT_MESSAGE" value="first try readme unchanged" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

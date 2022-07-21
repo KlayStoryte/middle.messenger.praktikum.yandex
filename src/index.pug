@@ -1,0 +1,26 @@
+doctype html
+html(lang="en")
+    head
+        link(rel='stylesheet',href='./ui/_main_style.sass')
+        link(rel="stylesheet", href='./ui/auth/style.sass')
+        link(rel='stylesheet',href='./ui/register/style.sass')
+        link(rel='stylesheet',href='./ui/issues.sass')
+        link(rel='stylesheet',href='./ui/user_options/style.sass')
+        link(rel='stylesheet',href='./ui/main_window/style.sass')
+    body
+        div.app
+        div(style="position:fixed; bottom: 3px;")
+            ul
+                li
+                   a(href='/?page=auth') Авторизация
+                li
+                    a(href='/?page=register') Регистрация
+                li
+                    a(href='/?page=500') 5xx
+                li
+                    a(href='/?page=404') 404
+                li
+                    a(href='/?page=UserOptions') options
+                li
+                    a(href='/?page=Main') main_window
+        script(type='module' src='./index.ts')

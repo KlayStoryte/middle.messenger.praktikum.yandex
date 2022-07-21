@@ -1,0 +1,24 @@
+mixin list-item()
+    div.list
+doctype html
+html(lang="en")
+    head
+        link(rel='stylesheet',href='../_main_style.sass')
+        link(rel="stylesheet", href="style.sass")
+    body(onload='test_load()')
+        div(class='chat_container')
+            div(class='col')
+                div(class='flex-item_dialogue_list')
+                    div(class='flex-item_main_window')
+                    +list-item()
+                    +list-item()
+                    +list-item()
+                    +list-item()
+                    +list-item()
+            div(class='col')
+                div(class='flex-item_chat')
+                    form(action='#')
+                        input(type='text' name='message')
+                        input(type='submit' class='chat' name='submit' value='')
+        script(src="script.js")
+
