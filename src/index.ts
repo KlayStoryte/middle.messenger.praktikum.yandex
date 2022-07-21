@@ -1,7 +1,7 @@
 import {render} from "./utility/render";
 import {Auth, Actions as Authorization} from "./pages/Auth/Auth";
 import {Register, Actions as Registration} from "./pages/Register/Register";
-import {UserOptions, Actions as UserOptionsCons} from "./pages/UserOptions/UserOptions";
+import {Useroptions, Actions as UserOptionsCons} from "./pages/useroptions/Useroptions";
 import {Err} from "./pages/error/error";
 import {Main, Actions as MainChatData} from "./pages/Main/Main";
 
@@ -20,8 +20,8 @@ document.addEventListener("DOMContentLoaded", () => {
     case "?page=register":
       page = new Register({...Registration})
       break;
-    case "?page=UserOptions":
-      page = new UserOptions({...UserOptionsCons})
+    case "?page=Useroptions":
+      page = new Useroptions({...UserOptionsCons})
       break;
     case "?page=Main":
       page = new Main({...MainChatData})

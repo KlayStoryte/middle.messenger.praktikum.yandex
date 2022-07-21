@@ -1,4 +1,4 @@
-export const UserOptionsTpl = `
+export const UseroptionsTpl = `
 div(class='options_container')
             div(class='row')
                 div(class='flex-item_options')
