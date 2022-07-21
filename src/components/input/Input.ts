@@ -1,7 +1,7 @@
 
 import {InputProps} from "./input.props";
 import {Block} from "../../utility/Block";
-import {inputTpl} from "./input.tpl";
+import {inputTpl} from "./Input.tpl";
 
 export class Input extends Block {
   constructor(props: InputProps) {

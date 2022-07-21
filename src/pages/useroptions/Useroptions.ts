@@ -1,17 +1,17 @@
 import {Block} from "../../utility/Block";
-import {UserOptionsTpl} from "./UserOptions.tpl";
+import {UseroptionsTpl} from "./Useroptions.tpl";
 import {Input} from '../../components/input/Input';
 import {Button} from '../../components/button/Button';
 import {submit} from '../../utility/Submit'
 import {ValidateInput} from "../../utility/ValidateInput"
 
-export class UserOptions extends Block {
+export class Useroptions extends Block {
   constructor(props: any) {
     super(props);
   }
 
   render() {
-    return this.compile(UserOptionsTpl, this.props);
+    return this.compile(UseroptionsTpl, this.props);
   }
 }
 const inputEmail = new Input({
