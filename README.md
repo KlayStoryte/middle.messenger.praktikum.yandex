@@ -1,3 +1,6 @@
 
-https://github.com/KlayStoryte/middle.messenger.praktikum.yandex/pull/3
 
+https://subtle-semolina-80b1cc.netlify.app
+
+npm run start
+npm run build

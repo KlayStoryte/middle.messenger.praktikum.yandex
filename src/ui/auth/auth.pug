@@ -3,19 +3,15 @@ html(lang="en")
     head
         link(rel='stylesheet',href='../_main_style.sass')
         link(rel="stylesheet", href="style.sass")
-    body(onload='test_load()')
+    body
         div(class='auth_container')
             div(class='flex-item_icon_auth')
             div(class='row')
                 div(class='flex-item_auth')
                     form(action="#")
-                        //div(id='user')
                         input(type="text", name="login",placeholder='Login')
-                        //div(id='lock')
                         input(type="text", name="password",placeholder='Password')
-
                         a(href='#',class='forms_url') registration
                         a(href='#',class='forms_url') forgot password?
-
                         input(type="submit", value="Sign in")
-        script(src="script.js")
+        //script(src="script.js")
